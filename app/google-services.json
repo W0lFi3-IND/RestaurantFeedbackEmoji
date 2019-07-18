@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "951076230543",
+    "firebase_url": "https://restaurantfeedbackemoji.firebaseio.com",
+    "project_id": "restaurantfeedbackemoji",
+    "storage_bucket": "restaurantfeedbackemoji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951076230543:android:d3a600a9187cb557",
+        "android_client_info": {
+          "package_name": "com.wolfie.restaurantfeedbackemoji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951076230543-1r2cvm3982nsvqdtdo619som71s7rh9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wolfie.restaurantfeedbackemoji",
+            "certificate_hash": "1fdda49cc49136bc1e13ea33f334f6bb9ea9050d"
+          }
+        },
+        {
+          "client_id": "951076230543-8upsfnf8j5tqhk1hmllm1qgp1kgc9v8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrnteMyGexiGqQWV_XdBlVIy1-d7IkWNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951076230543-8upsfnf8j5tqhk1hmllm1qgp1kgc9v8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
